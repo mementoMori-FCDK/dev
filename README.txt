@@ -1,4 +1,4 @@
-The program generates a message out from 3 components:
+The program generates a message out of 3 components:
 1. Car color
 2. Car natinality
 3. Car type
